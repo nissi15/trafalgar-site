@@ -1,2 +1,3 @@
 # trafalgar-site
-This is  Trafalgar site.
+
+This is Trafalgar site.
